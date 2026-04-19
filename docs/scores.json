@@ -382,5 +382,13 @@
     "max": 5,
     "pct": 100,
     "updated": "2026-04-19T11:41:03.413Z"
+  },
+  "dia-vats": {
+    "name": "Dia Vats",
+    "level": 2,
+    "score": 5,
+    "max": 5,
+    "pct": 100,
+    "updated": "2026-04-19T13:56:00.872Z"
   }
 }
